@@ -1,0 +1,7 @@
+name,brand,category,package_size,barcode,branch_id,regular_price,sale_price,unit_price_value,unit_price_unit,in_stock
+Sourdough Bread,,bakery,500 g,,1111aaaa-1111-1111-1111-111111111111,3.49,,0.698,per_100g,true
+Sourdough Bread,,bakery,500 g,,2222aaaa-2222-2222-2222-222222222222,3.99,3.29,0.658,per_100g,true
+Orange Juice,,beverages,1.75 L,,1111aaaa-1111-1111-1111-111111111111,4.99,,0.285,per_100ml,true
+Orange Juice,,beverages,1.75 L,,2222aaaa-2222-2222-2222-222222222222,4.49,,0.257,per_100ml,true
+Old Cheddar Cheese,,dairy,400 g,,1111aaaa-1111-1111-1111-111111111111,6.49,5.49,1.37,per_100g,true
+Old Cheddar Cheese,,dairy,400 g,,2222aaaa-2222-2222-2222-222222222222,5.99,,1.50,per_100g,true
