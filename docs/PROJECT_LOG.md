@@ -278,7 +278,7 @@ Other commands: `npm run build` (production build), `npm run lint`.
 ## Open items / next steps
 
 - [x] **Apply the 3 Phase 2 SQL files** in Supabase. *(done 2026-06-02 — all 3 succeeded)*
-- [x] **First git commit + GitHub push** — repo lives at `https://github.com/OwenKacz/Grocery-App`. *(done 2026-06-02)*
+- [x] **First git commit + GitHub push** — repo lives at `https://github.com/OwenKacz/Cartwise` (renamed from `Grocery-App` 2026-06-12; old URL redirects). *(done 2026-06-02)*
 - [x] **Supabase `secret` key** added to `.env.local`. *(done)*
 - [x] **Phase 3 built and verified**: adapters + registry + ingestion job ran end-to-end. *(done 2026-06-10)*
 - [ ] Start **Phase 4 — Search UI**: location + item search, cheapest-first results, grocery-list mode.
